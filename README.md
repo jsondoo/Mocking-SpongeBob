@@ -4,4 +4,3 @@ Are you a fan of mocking spongebob memes? Well now you can have spongebob mock y
 
 ![](https://i.imgur.com/RigtZcn.jpg)
 
-(this chrome extension is a result of my boredom)
